@@ -26,3 +26,62 @@
 0	15:28:16.226	Compiling 'PipeClient'
 0	15:28:16.226	Compiling 'PipeClientPure'
 0	15:28:18.550	Compiling 'stdlib'
+0	18:25:09.294	Custom indicator CCI GBPUSD,H4: loaded successfully
+0	18:25:19.631	CCI GBPUSD,H4: initialized
+0	18:25:27.357	Custom indicator Bands GBPUSD,H4: loaded successfully
+0	18:25:29.419	Bands GBPUSD,H4: initialized
+0	18:25:37.280	Custom indicator MACD GBPUSD,H4: loaded successfully
+0	18:25:38.530	MACD GBPUSD,H4: initialized
+0	18:25:42.280	Custom indicator Stochastic GBPUSD,H4: loaded successfully
+0	18:25:43.265	Stochastic GBPUSD,H4: initialized
+0	18:52:16.131	Bands GBPUSD,H4: uninit reason 9
+0	18:52:16.131	CCI GBPUSD,H4: uninit reason 9
+0	18:52:16.131	MACD GBPUSD,H4: uninit reason 9
+0	18:52:16.131	Stochastic GBPUSD,H4: uninit reason 9
+0	18:52:16.146	Custom indicator Bands GBPUSD,H4: removed
+0	18:52:16.146	Custom indicator CCI GBPUSD,H4: removed
+0	18:52:16.146	Custom indicator MACD GBPUSD,H4: removed
+0	18:52:16.146	Custom indicator Stochastic GBPUSD,H4: removed
+0	18:52:39.738	Custom indicator Bands EURUSD,H4: loaded successfully
+0	18:52:39.754	Custom indicator CCI EURUSD,H4: loaded successfully
+0	18:52:39.754	Custom indicator MACD EURUSD,H4: loaded successfully
+0	18:52:39.769	Custom indicator Stochastic EURUSD,H4: loaded successfully
+0	18:52:39.769	Bands EURUSD,H4: initialized
+0	18:52:39.785	CCI EURUSD,H4: initialized
+0	18:52:39.785	MACD EURUSD,H4: initialized
+0	18:52:39.801	Stochastic EURUSD,H4: initialized
+0	21:53:25.547	Compiling 'GeneralTemplate'
+0	21:58:10.496	Expert CciVarTest EURUSD,H4: loaded successfully
+0	21:58:17.310	CciVarTest EURUSD,H4: initialized
+0	21:58:18.700	CciVarTest EURUSD,H4: The current CCI Value = -33
+0	21:58:44.326	CciVarTest EURUSD,H4: uninit reason 1
+0	21:58:44.341	Expert CciVarTest EURUSD,H4: removed
+0	22:04:04.472	Bands EURUSD,H4: uninit reason 3
+0	22:04:04.472	CCI EURUSD,H4: uninit reason 3
+0	22:04:04.472	MACD EURUSD,H4: uninit reason 3
+0	22:04:04.472	Stochastic EURUSD,H4: uninit reason 3
+0	22:04:04.472	Bands EURUSD,M1: initialized
+0	22:04:04.472	CCI EURUSD,M1: initialized
+0	22:04:04.472	MACD EURUSD,M1: initialized
+0	22:04:04.472	Stochastic EURUSD,M1: initialized
+0	22:04:06.167	Bands EURUSD,M1: uninit reason 3
+0	22:04:06.167	CCI EURUSD,M1: uninit reason 3
+0	22:04:06.167	MACD EURUSD,M1: uninit reason 3
+0	22:04:06.167	Stochastic EURUSD,M1: uninit reason 3
+0	22:04:06.167	Bands EURUSD,H1: initialized
+0	22:04:06.167	CCI EURUSD,H1: initialized
+0	22:04:06.167	MACD EURUSD,H1: initialized
+0	22:04:06.167	Stochastic EURUSD,H1: initialized
+0	22:10:09.594	Stochastic EURUSD,H1: uninit reason 1
+0	22:10:09.594	Custom indicator Stochastic EURUSD,H1: removed
+0	22:10:11.016	MACD EURUSD,H1: uninit reason 1
+0	22:10:11.016	Custom indicator MACD EURUSD,H1: removed
+0	22:10:14.985	Bands EURUSD,H1: uninit reason 1
+0	22:10:14.985	Custom indicator Bands EURUSD,H1: removed
+0	22:13:55.652	Expert CciVarTest AUDCAD,H1: loaded successfully
+0	22:13:57.574	CciVarTest AUDCAD,H1: initialized
+0	22:13:59.371	CciVarTest AUDCAD,H1: The current CCI Value = -114
+0	22:14:05.731	CciVarTest AUDCAD,H1: uninit reason 1
+0	22:14:05.997	Expert CciVarTest AUDCAD,H1: removed
+0	23:25:53.985	CCI EURUSD,H1: uninit reason 9
+0	23:25:53.985	Custom indicator CCI EURUSD,H1: removed
