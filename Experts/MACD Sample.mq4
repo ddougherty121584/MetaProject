@@ -64,11 +64,15 @@ void OnTick(void)
          if(ticket>0)
            {
             if(OrderSelect(ticket,SELECT_BY_TICKET,MODE_TRADES))
+               {
                Print("BUY order opened : ",OrderOpenPrice());
+               }
            }
          else
+            {
             Print("Error opening BUY order : ",GetLastError());
-         return;
+            return;
+            }
         }
       //--- check for short position (SELL) possibility
       if(MacdCurrent>0 && MacdCurrent<SignalCurrent && MacdPrevious>SignalPrevious && 
