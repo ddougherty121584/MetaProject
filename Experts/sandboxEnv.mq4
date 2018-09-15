@@ -13,7 +13,7 @@
 //Input Pramaters for strategy in red below.  These parameters can be optimized.
 
 //"EURUSD" Point() is delivered as 0.00001,  a pip is designated as 10 not 1
-input int takeProfit = 1000;//100 pip take profit
+input double takeProfit = 1000;//100 pip take profit
 input double stopLoss = 500;//50 pip stop loss
 input double lots = 0.01;
 input int minHoldingValue = 50;
@@ -21,6 +21,9 @@ input int cciRate = 20;
 input double cciBuyValue = -100;
 input double cciSellValue = 100;
 input int slippage = 50;
+
+
+//Variables for the BB Logic
 
 
 //Variables for the CCI trade logic

@@ -66,7 +66,7 @@ void OnTick()
 
 //BarClose logic allows trading once the new bar has closed.
 //Trade logic should be nested inside.
-   barClosePrice = iClose(Symbol(),Period(),1);
+   barClosePrice = iClose(Symbol(),Period(),1);//Update close price of last bar.
 
    if(barClosePrice != priceCheck) 
       {
